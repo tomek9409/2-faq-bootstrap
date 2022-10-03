@@ -1,0 +1,20 @@
+* {
+  color: gray;
+}
+
+.header {
+  align-items: center;
+}
+
+h6 {
+  color: orange;
+}
+
+h6:hover {
+  color: gray;
+  text-decoration: solid underline gray;
+}
+
+.accordion-header {
+  border: 0.1px solid orange;
+}
